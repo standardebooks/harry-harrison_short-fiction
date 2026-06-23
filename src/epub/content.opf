@@ -44,8 +44,30 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
+		<!-- An Artist’s Life, Rocket Stories 1953-09 -->
 		<dc:source>https://www.gutenberg.org/ebooks/78693</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<dc:source>https://archive.org/details/Rocket_Stories_v01n03_1953-09_oak</dc:source>
+		<!-- Navy Day, Worlds of IF 1954-01 -->
+		<dc:source>https://www.gutenberg.org/ebooks/30019</dc:source>
+		<dc:source>https://archive.org/details/1954-01_IF</dc:source>
+		<!-- The Velvet Glove, Fantastic Universe 1956-11 -->
+		<dc:source>https://www.gutenberg.org/ebooks/29471</dc:source>
+		<dc:source>https://archive.org/details/Fantastic_Universe_v06n04_1956-11</dc:source>
+		<!-- The Repairman, Galaxy 1958-02 -->
+		<dc:source>https://www.gutenberg.org/ebooks/22073</dc:source>
+		<dc:source>https://archive.org/details/galaxymagazine-1958-02</dc:source>
+		<!-- Arm of the Law, Fantastic Universe 1958-08 -->
+		<dc:source>https://www.gutenberg.org/ebooks/29204</dc:source>
+		<dc:source>https://archive.org/details/Fantastic_Universe_v10n02_1958-08</dc:source>
+		<!-- The K-Factor, Analog 1960-12 -->
+		<dc:source>https://www.gutenberg.org/ebooks/22540</dc:source>
+		<dc:source>https://archive.org/details/analog-v-116n-01-02-1996-01-unz.org/1960-1969/1960/Analog%20v066n04%20%281960-12%29%20%28unz.org%29</dc:source>
+		<!-- Toy Shop, Analog 1962-02 -->
+		<dc:source>https://www.gutenberg.org/ebooks/22966</dc:source>
+		<dc:source>https://archive.org/details/analog-v-116n-01-02-1996-01-unz.org/1960-1969/1962/Analog%20v069n02%20%281962-04%29%20%28unz.org%29</dc:source>
+		<!-- Down to Earth, Amazing Stories 1963-11 -->
+		<dc:source>https://www.gutenberg.org/ebooks/72431</dc:source>
+		<dc:source>https://archive.org/details/Amazing_Stories_v37n11_1963-11</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
