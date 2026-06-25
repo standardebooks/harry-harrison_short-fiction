@@ -8,7 +8,6 @@ q{
 header{
 	font-variant: small-caps;
 	margin: 1em;
-	text-align: center;
 }
 
 [epub|type~="z3998:verse"] p{
