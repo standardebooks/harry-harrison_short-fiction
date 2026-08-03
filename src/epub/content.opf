@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/harry-harrison/short-fiction</dc:identifier>
 		<dc:date>2026-06-25T19:02:26Z</dc:date>
@@ -54,12 +54,12 @@
 		<meta property="schema:genre">Science Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of science fiction stories by Harry Harrison, ordered by date of publication.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of science fiction stories by Harry Harrison, ordered by date of publication.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/harry-harrison"&gt;Harry Harrison&lt;/a&gt; was a science fiction author with a long career from the 1950s through to the beginning of the twenty-first century. His novels and short stories blend science fiction and adventure, always with a focus on the characters over the technology. Harrison’s love for the genre led him to write more than a hundred short stories and fifty novels, with stints as an anthology editor and writer of sci-fi history.&lt;/p&gt;
 			&lt;p&gt;Often, the themes Harrison explores are familiar ones: stories of robots bound by internal laws (“The Velvet Glove,” “Arm of the Law”), societal changes as a science (“The K-Factor”), and parallel universes (“Down to Earth”). But it’s his protagonists who, with their quick thinking and non-conformist moralities, take center stage.&lt;/p&gt;
 			&lt;p&gt;Collected here are Harrison’s short stories that are currently known to have passed into the &lt;abbr&gt;U.S.&lt;/abbr&gt; public domain, arranged in order of publication, with the exception of “The Stainless Steel Rat” and “The Misplaced Battleship” which were later combined to form the basis of the novel &lt;a href="https://standardebooks.org/ebooks/harry-harrison/the-stainless-steel-rat"&gt;&lt;i&gt;The Stainless Steel Rat&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<!-- An Artist’s Life, Rocket Stories 1953-09 -->
 		<dc:source>https://www.gutenberg.org/ebooks/78693</dc:source>
