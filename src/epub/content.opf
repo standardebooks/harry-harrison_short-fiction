@@ -54,7 +54,7 @@
 		<meta property="schema:genre">Science Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of science fiction stories by Harry Harrison, ordered by date of publication.</dc:abstract>
+		<meta property="schema:abstract">A collection of science fiction stories by Harry Harrison, ordered by date of publication.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/harry-harrison"&gt;Harry Harrison&lt;/a&gt; was a science fiction author with a long career from the 1950s through to the beginning of the twenty-first century. His novels and short stories blend science fiction and adventure, always with a focus on the characters over the technology. Harrison’s love for the genre led him to write more than a hundred short stories and fifty novels, with stints as an anthology editor and writer of sci-fi history.&lt;/p&gt;
 			&lt;p&gt;Often, the themes Harrison explores are familiar ones: stories of robots bound by internal laws (“The Velvet Glove,” “Arm of the Law”), societal changes as a science (“The K-Factor”), and parallel universes (“Down to Earth”). But it’s his protagonists who, with their quick thinking and non-conformist moralities, take center stage.&lt;/p&gt;
